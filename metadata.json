@@ -1,0 +1,7 @@
+{
+  "name": "voice AI",
+  "description": "A next-generation AI voice interface featuring real-time audio transcription and natural text-to-speech synthesis using Gemini 2.5 Flash models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
